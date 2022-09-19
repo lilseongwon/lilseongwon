@@ -3,11 +3,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=lilseongwon%&fontSize=90)
 
-<h1>💬 Abount Me</h1>
-- 🔭 I’m currently working on Entry Dsm, in Daedeok SoftWare Meister HighSchool
-- 🌱 I’m currently learning SpringBoot, DevOps
-- 👯 I’m looking to collaborate on FrontEnd
-- 💬 Ask me about Collaboration
+<h1>💬 About Me</h1>
+- 🔭 I’m currently working on Entry Dsm, in Daedeok SoftWare Meister HighSchool <br/>
+- 🌱 I’m currently learning SpringBoot, DevOps<br/>
+- 👯 I’m looking to collaborate on FrontEnd<br/>
+- 💬 Ask me about Collaboration<br/>
 
 <br/>
 
