@@ -3,6 +3,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=lilseongwon%&fontSize=90)
 
+
+- 🔭 I’m currently working on Entry Dsm
+- 🌱 I’m currently learning SpringBoot, DevOps
+- 👯 I’m looking to collaborate on FrontEnd
+- 💬 Ask me about Collaboration
+
 <h3 align='center'>🔨 Skill 🔧</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -36,7 +42,7 @@
 <p align='center'>
 <p align='center'>
   <a href="mailto:seongwon1290@dsm.hs.kr" target="_bvank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>,
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <a href="https://www.instagram.com/seong_one111/" target="_bvank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   
@@ -44,10 +50,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=lilseongwon&theme=dark&show_icons=true">
     
 </p>
-    
-- 🔭 I’m currently working on Entry Dsm
-- 🌱 I’m currently learning SpringBoot, DevOps
-- 👯 I’m looking to collaborate on FrontEnd
-- 💬 Ask me about Collaboration
 
 
