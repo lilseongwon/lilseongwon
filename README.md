@@ -36,9 +36,7 @@
 <p align='center'>
 <p align='center'>
   <a href="mailto:seongwon1290@dsm.hs.kr" target="_bvank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-    
-<p align='center'>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>,
   <a href="https://www.instagram.com/seong_one111/" target="_bvank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   
