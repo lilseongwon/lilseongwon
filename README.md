@@ -38,7 +38,7 @@
   <a href="mailto:seongwon1290@dsm.hs.kr" target="_bvank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>,
   <a href="https://www.instagram.com/seong_one111/" target="_bvank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   
   <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=lilseongwon&theme=dark&show_icons=true">
