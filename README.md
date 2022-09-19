@@ -5,7 +5,7 @@
 
 <h1>💬 About Me</h1>
 
-- 🔭 I’m currently working on Entry Dsm, in Daedeok SoftWare Meister HighSchool <br/>
+- 🔭 I’m currently working on Entry Dsm, in Daedeok Software Meister High School <br/>
 - 🌱 I’m currently learning SpringBoot, DevOps<br/>
 - 👯 I’m looking to collaborate on FrontEnd<br/>
 - 💬 Ask me about Collaboration<br/>
