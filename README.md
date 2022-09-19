@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lilseongwon&tag=회고록)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lilseongwon&tag=회고록)](https://github.com/lilseongwon/velog-readme-stats)
 
 <h3 align='center'>🔨 Skill 🔧</h3>
 <p align='center'>
