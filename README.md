@@ -10,8 +10,7 @@
 - 💬 Ask me about Collaboration<br/>
 
 <br/>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2022 소마고 연합 토크콘서트 후기)](https://velog.io/@lilseongwon/2022-%EC%86%8C%EB%A7%88%EA%B3%A0-%EC%97%B0%ED%95%A9-%ED%86%A0%ED%81%AC%EC%BD%98%EC%84%9C%ED%8A%B8-%ED%9B%84%EA%B8%B0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lilseongwon&slug=2022 소마고-연합-토크콘서트-후기)](https://velog.io/@lilseongwon/2022-%EC%86%8C%EB%A7%88%EA%B3%A0-%EC%97%B0%ED%95%A9-%ED%86%A0%ED%81%AC%EC%BD%98%EC%84%9C%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 
 <h3 align='center'>🔨 Skill 🔧</h3>
 <p align='center'>
