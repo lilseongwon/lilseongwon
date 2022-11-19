@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=Github Actions&logoColor=white"/>
   
 <h3 align='center'>📚 Learning</h3>
     <p align='center'>
