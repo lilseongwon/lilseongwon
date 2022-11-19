@@ -5,10 +5,8 @@
 
 <h1>💬 About Me</h1>
 
-- 🔭 I’m currently working on Entry Dsm, in Daedeok Software Meister High School <br/>
-<a href="https://github.com/EntryDSM" target="_blank">
-  <img src="https://user-images.githubusercontent.com/102791105/202582992-2dc69f90-aec3-45f7-bd59-2e86c79ab3d7.png" width="719" align="left">
-</a>
+- 🔭 I’m currently working on [Entry Dsm](https://github.com/EntryDSM) in Daedeok Software Meister High School <br/>
+<img width="719" alt="image" src="https://user-images.githubusercontent.com/102791105/202582992-2dc69f90-aec3-45f7-bd59-2e86c79ab3d7.png">
 
 - 🌱 I’m currently learning SpringBoot, DevOps<br/>
 - 👯 I’m looking to collaborate on FrontEnd<br/>
